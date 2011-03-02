@@ -9,11 +9,11 @@ Usage
 
 There is only one method, "pry", called like so:
  
-		BusyBody.pry(name,url)
+	BusyBody.pry(name,url)
 		
 This will return a hash:
 
-		{
-		  "twitter"  => "http://twitter.com/michaeljackson",
-		  "facebook" => "http://www.facebook.com/michaeljackson"
-		}
+	{
+	  "twitter"  => "http://twitter.com/michaeljackson",
+	  "facebook" => "http://www.facebook.com/michaeljackson"
+	}

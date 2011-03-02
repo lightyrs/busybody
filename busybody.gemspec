@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ["lib/busybody.rb"]
   s.files = ["Rakefile", "lib/busybody.rb", "Manifest", "busybody.gemspec"]
   s.homepage = %q{http://github.com/lightyrs/busybody}
-  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Busybody"]
+  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Busybody", "--main", "README.markdown"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{busybody}
   s.rubygems_version = %q{1.3.7}
