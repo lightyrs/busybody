@@ -7,6 +7,8 @@ Usage
 -------------
 **busybody depends on nokogiri and httparty**
 
+	gem install busybody
+
 There is only one method, "pry", which takes two required parameters, the site name and url.  
 The site name is used to detect the relevancy of a social url when there are multiple urls present.
  
