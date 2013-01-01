@@ -14,7 +14,11 @@ The site name is used to detect the relevancy of a social url when there are mul
  
 	BusyBody.pry(name,url)
 		
-This will return a hash:
+This:
+ 
+	BusyBody.pry('Michael Jackson', 'michaeljackson.com')
+
+will return a hash:
 
 	{
 	  "twitter"  => "http://twitter.com/michaeljackson",
